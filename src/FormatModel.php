@@ -11,7 +11,7 @@ class FormatModel
     /**
      * Format the given model to a readable string.
      *
-     * @param \Jenssegers\Mongodb\Eloquent\Model $model
+     * @param \MongoDB\Laravel\Eloquent\Model $model
      *
      * @return string
      */

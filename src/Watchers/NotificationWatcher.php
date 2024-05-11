@@ -3,7 +3,7 @@
 namespace Laravel\Telescope\Watchers;
 
 use Illuminate\Contracts\Queue\ShouldQueue;
-use Jenssegers\Mongodb\Eloquent\Model;
+use MongoDB\Laravel\Eloquent\Model;
 use Illuminate\Notifications\AnonymousNotifiable;
 use Illuminate\Notifications\Events\NotificationSent;
 use Laravel\Telescope\ExtractTags;

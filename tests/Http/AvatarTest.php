@@ -3,7 +3,7 @@
 namespace Laravel\Telescope\Tests\Http;
 
 use Illuminate\Contracts\Auth\Authenticatable;
-use Jenssegers\Mongodb\Eloquent\Model;
+use MongoDB\Laravel\Eloquent\Model;
 use Laravel\Telescope\Http\Middleware\Authorize;
 use Laravel\Telescope\Telescope;
 use Laravel\Telescope\Tests\FeatureTestCase;

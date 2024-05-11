@@ -2,7 +2,7 @@
 
 namespace Laravel\Telescope;
 
-use Jenssegers\Mongodb\Eloquent\Model;
+use MongoDB\Laravel\Eloquent\Model;
 use ReflectionClass;
 
 class ExtractProperties

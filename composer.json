@@ -1,6 +1,6 @@
 {
-    "name": "yektadg/laravel-telescope-mongodb",
-    "description": "An elegant debug assistant for the Laravel framework compatible with mongodb.",
+    "name": "awidarto/laravel-telescope-mongodb",
+    "description": "An elegant debug assistant for the Laravel framework compatible with mongodb. forked from yektadg/laravel-telescope-mongodb",
     "keywords": [
         "laravel",
         "monitoring",
